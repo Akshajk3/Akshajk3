@@ -7,7 +7,6 @@ I like building things from the ground up, whether that's a computer wired chip 
 - **[NeuralDrive](https://github.com/Akshajk3/NeuralDrive):** a self-driving go-kart. I built a drive-by-wire controller for the kart and a camera-based autonomy stack (lane detection, object detection, and a driving model) that I develop in the CARLA simulator.
 - **[EPS-Controller](https://github.com/Akshajk3/EPS-Controller):** ESP32 firmware that turns a Kia Soul electric power steering unit into a closed-loop steering actuator, using two angle sensors and a PID controller, so a computer can steer to a target angle.
 - **[W65C816S Computer](https://github.com/Akshajk3/W65C816S-Computer):** a homebrew computer built around a 65C816 CPU, with a custom debug board and EEPROM programmer PCB that I designed in KiCad.
-- **[Nano Boat Controller](https://github.com/Akshajk3/Nano-Boat-Controller-2026):** the Jetson Nano-based controller and dashboard for a solar-powered boat competing in the 2026 Solar Regatta.
 
 ---
 
